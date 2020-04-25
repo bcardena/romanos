@@ -1,23 +1,241 @@
-# Compiled class file
-*.class
 
-# Log file
-*.log
+# Creado por https://www.gitignore.io/api/java,gradle,intellij,intellij+all,intellij+iml
+# Editar en https://www.gitignore.io/?templates=java,gradle,intellij,intellij+all,intellij+iml
 
-# BlueJ files
-*.ctxt
+### Intellij ###
+# Cubre IDE de JetBrains: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio y WebStorm
+# Referencia: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Cosas específicas del usuario
+.idea / ** / workspace.xml
+.idea / ** / task.xml
+.idea / ** / use.statistics.xml
+.idea / ** / dictionary
+.idea / ** / estante
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+# Archivos generados
+.idea / ** / contentModel.xml
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# Archivos sensibles o de alta rotación
+.idea / ** / dataSources /
+.idea / ** / dataSources.ids
+.idea / ** / dataSources.local.xml
+.idea / ** / sqlDataSources.xml
+.idea / ** / dynamic.xml
+.idea / ** / uiDesigner.xml
+.idea / ** / dbnavigator.xml
+
+# Gradle
+.idea / ** / gradle.xml
+.idea / ** / bibliotecas
+
+# Gradle and Maven con importación automática
+# Al utilizar Gradle o Maven con importación automática, debe excluir los archivos de módulo,
+# ya que se recrearán y pueden causar deserción. Descomente si usa
+# importación automática.
+# .idea / modules.xml
+# .idea / *. iml
+# .idea / modules
+# * .iml
+# * .ipr
+
+# CMake
+cmake-build - * /
+
+# Complemento Mongo Explorer
+.idea / ** / mongoSettings.xml
+
+# Formato de proyecto basado en archivos
+* .iws
+
+# IntelliJ
+fuera/
+
+# plugin mpeltonen / sbt-idea
+.idea_modules /
+
+# Complemento JIRA
+atlassian-ide-plugin.xml
+
+# Complemento Clojive Clojure
+.idea / replstate.xml
+
+# Complemento Crashlytics (para Android Studio e IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+tela.propiedades
+
+# Cliente de descanso basado en editor
+.idea / httpRequests
+
+# Android studio 3.1+ archivo de caché serializado
+.idea / caches / build_file_checksums.ser
+
+### Parche Intellij ###
+# Motivo del comentario: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
+
+# * .iml
+# modules.xml
+# .idea / misc.xml
+# * .ipr
+
+# Plugin Sonarlint
+.idea / ** / sonarlint /
+
+# SonarQube Plugin
+.idea / ** / sonarIssues.xml
+
+# Complemento Markdown Navigator
+.idea / ** / markdown-navigator.xml
+.idea / ** / markdown-navigator /
+
+### Intellij + all ###
+# Cubre IDE de JetBrains: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio y WebStorm
+# Referencia: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# Cosas específicas del usuario
+
+# Archivos generados
+
+# Archivos sensibles o de alta rotación
+
+# Gradle
+
+# Gradle and Maven con importación automática
+# Al utilizar Gradle o Maven con importación automática, debe excluir los archivos de módulo,
+# ya que se recrearán y pueden causar deserción. Descomente si usa
+# importación automática.
+# .idea / modules.xml
+# .idea / *. iml
+# .idea / modules
+# * .iml
+# * .ipr
+
+# CMake
+
+# Complemento Mongo Explorer
+
+# Formato de proyecto basado en archivos
+
+# IntelliJ
+
+# plugin mpeltonen / sbt-idea
+
+# Complemento JIRA
+
+# Complemento Clojive Clojure
+
+# Complemento Crashlytics (para Android Studio e IntelliJ)
+
+# Cliente de descanso basado en editor
+
+# Android studio 3.1+ archivo de caché serializado
+
+### Intellij + todos los parches ###
+# Ignora toda la carpeta .idea y todos los archivos .iml
+# Ver https://github.com/joeblau/gitignore.io/issues/186 y https://github.com/joeblau/gitignore.io/issues/360
+
+.idea/
+
+# Motivo: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-249601023
+
+* .iml
+modules.xml
+.idea / misc.xml
+* .ipr
+
+# Plugin Sonarlint
+.idea / sonarlint
+
+### Intellij + iml ###
+# Cubre IDE de JetBrains: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio y WebStorm
+# Referencia: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# Cosas específicas del usuario
+
+# Archivos generados
+
+# Archivos sensibles o de alta rotación
+
+# Gradle
+
+# Gradle and Maven con importación automática
+# Al utilizar Gradle o Maven con importación automática, debe excluir los archivos de módulo,
+# ya que se recrearán y pueden causar deserción. Descomente si usa
+# importación automática.
+# .idea / modules.xml
+# .idea / *. iml
+# .idea / modules
+# * .iml
+# * .ipr
+
+# CMake
+
+# Complemento Mongo Explorer
+
+# Formato de proyecto basado en archivos
+
+# IntelliJ
+
+# plugin mpeltonen / sbt-idea
+
+# Complemento JIRA
+
+# Complemento Clojive Clojure
+
+# Complemento Crashlytics (para Android Studio e IntelliJ)
+
+# Cliente de descanso basado en editor
+
+# Android studio 3.1+ archivo de caché serializado
+
+### Intellij + iml Patch ###
+# Motivo: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-249601023
+
+
+### Java ###
+# Archivo de clase compilado
+*.clase
+
+# Archivo de registro
+*.Iniciar sesión
+
+# Archivos BlueJ
+* .ctxt
+
+# Herramientas móviles para Java (J2ME)
+.mtj.tmp /
+
+# Archivos de paquete #
+*.tarro
+*.guerra
+* .nar
+*.oído
+*.Código Postal
+* .tar.gz
+* .rar
+
+# registros de fallas de máquinas virtuales, consulte http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid *
+
+### Gradle ###
+.gradle
+construir/
+
+# Ignorar la configuración de la GUI de Gradle
+gradle-app.setting
+
+# Evite ignorar el archivo jar Gradle wrapper (los archivos .jar generalmente se ignoran)
+! gradle-wrapper.jar
+
+# Caché del proyecto
+.gradletasknamecache
+
+# # Trabaja en https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle / wrapper / gradle-wrapper.properties
+
+### Gradle Patch ###
+**/construir/
+
+# Fin de https://www.gitignore.io/api/java,gradle,intellij,intellij+all,intellij+iml

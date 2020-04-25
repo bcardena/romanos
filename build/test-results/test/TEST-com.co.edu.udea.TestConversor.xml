@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.co.edu.udea.TestConversor" tests="30" skipped="0" failures="0" errors="0" timestamp="2020-04-25T20:19:40" hostname="DESKTOP-GD7UDV3" time="0.01">
+  <properties/>
+  <testcase name="cuandoReciba23DebeRetornarXXIII" classname="com.co.edu.udea.TestConversor" time="0.001"/>
+  <testcase name="cuandoReciba18DebeRetornarXVIII" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba1DebeRetornarI" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba14DebeRetornarXIV" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba17DebeRetornarXVII" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba27DebeRetornarXXVII" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba7DebeRetornarVII" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba28DebeRetornarXXVIII" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba30DebeRetornarXXX" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba25DebeRetornarXXV" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba22DebeRetornarXXII" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba12DebeRetornarXII" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba8DebeRetornarVIII" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba6DebeRetornarVI" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba11DebeRetornarXI" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba9DebeRetornarIX" classname="com.co.edu.udea.TestConversor" time="0.001"/>
+  <testcase name="cuandoReciba29DebeRetornarXXIX" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba19DebeRetornarXIV" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba26DebeRetornarXXVI" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba5DebeRetornarV" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba3DebeRetornarIII" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba10DebeRetornarX" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba4DebeRetornarIV" classname="com.co.edu.udea.TestConversor" time="0.001"/>
+  <testcase name="cuandoReciba21DebeRetornarXXI" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba13DebeRetornarXIII" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba16DebeRetornarXVI" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba15DebeRetornarXV" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba24DebeRetornarXXIV" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba20DebeRetornarXX" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <testcase name="cuandoReciba2DebeRetornarII" classname="com.co.edu.udea.TestConversor" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
